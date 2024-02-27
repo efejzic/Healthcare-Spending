@@ -1,1 +1,1 @@
-# Healthcare-Spending
+# Healthcare Spending
